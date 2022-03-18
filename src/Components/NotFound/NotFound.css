@@ -1,0 +1,25 @@
+.notFound{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    
+}
+
+.notFoundPhoto{
+    margin: 0 auto;
+    width: 400px;
+    height: 300px;
+}
+
+.notFoundContent{
+    margin-top: 50px;
+    font-size: 100px;
+    text-align: center;
+}
+
+.notFoundBtn{
+    margin: 0 auto;
+    width: 100px;
+    height: 50px;
+}

@@ -1,0 +1,13 @@
+.create{
+    margin: 40px auto;
+    border: 1px solid rgb(184, 179, 179);
+    border-radius: 5px;
+    padding: 20px;
+    width: 65%;
+    background-color:rgb(216, 227, 233);
+}
+
+.title{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: rgb(90, 90, 90);
+}

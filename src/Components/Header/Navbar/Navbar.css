@@ -1,0 +1,12 @@
+.navBarStyle{
+    background-color: #e3f2fd;
+}
+
+.navBarDiv{
+    display: flex;
+    justify-content: center;
+}
+
+.navBarUl{
+    margin-right: 50px;
+}

@@ -1,0 +1,18 @@
+.searchArea{
+    display: flex;
+    justify-content: flex-end;
+}
+
+.searchIcon{
+    width: 40px;
+    height: 40px;
+}
+
+.searchIcon:hover{
+    cursor: pointer;
+}
+
+.searchLoader{
+    width: 30px;
+    height: 30px;
+}
